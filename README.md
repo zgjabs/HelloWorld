@@ -7,6 +7,6 @@ it is edited by gerrard
 
 test how to edit a file
 
-[edit in f_1 ...]
+[edit in f_1]
 
 [edit in f_2]
